@@ -1,3 +1,5 @@
+![alt text](https://github.com/Gitzak/second_project_flutter_todo_app/blob/main/screenshot.png)
+
 # second_project_flutter_todo_app
 
 A new Flutter project.
